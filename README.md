@@ -14,16 +14,7 @@ Python in 24 Hours
 
 Table of Contents
 
-[ ] Preface   
-[ ] Who This Book Is For
-[ ] How This Book Is Organized 
-[ ] Introduction 
-[ ] Learning to Program 
-[ ] Why Python?
-[ ] Getting Started
-[ ] How This Book Works 
-[ ] What to Do If You Get Stuck
-[ ] HOUR  1  Installing and Running Python
+[x] HOUR  1  Installing and Running Python
 [ ] HOUR  2  Putting Numbers to Work in Python
 [ ] HOUR  3  Logic in Programming
 [ ] HOUR  4  Storing Text in Strings
