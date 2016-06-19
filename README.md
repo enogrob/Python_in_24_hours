@@ -15,7 +15,7 @@ Python in 24 Hours
 Table of Contents
 
 [x] HOUR  1  Installing and Running Python
-[ ] HOUR  2  Putting Numbers to Work in Python
+[x] HOUR  2  Putting Numbers to Work in Python
 [ ] HOUR  3  Logic in Programming
 [ ] HOUR  4  Storing Text in Strings
 [ ] HOUR  5  Processing Input and Output
