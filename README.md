@@ -16,7 +16,7 @@ Table of Contents
 
 [x] HOUR  1  Installing and Running Python
 [x] HOUR  2  Putting Numbers to Work in Python
-[ ] HOUR  3  Logic in Programming
+[x] HOUR  3  Logic in Programming
 [ ] HOUR  4  Storing Text in Strings
 [ ] HOUR  5  Processing Input and Output
 [ ] HOUR  6  Grouping Items in Lists
